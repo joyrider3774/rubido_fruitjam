@@ -66,6 +66,6 @@ Also depending on the difficulty you had chosen you can either jump horizontally
 - Graphcis are made by me willems davy aka joyrider3774 using gimp
 
 ## Notes
-- There are 20 volume levels, the default is set to a low value (being 3) out of safety just in case people use headphones immediatly. you can change the default on this [line](https://github.com/joyrider3774/formula1_fruitjam/blob/main/source/rubido_fruitjam/sound.cpp#L12) if you want higher volume
+- There are 20 volume levels, the default is set to a low value (being 3) out of safety just in case people use headphones immediatly. you can change the default on this [line](https://github.com/joyrider3774/rubido_fruitjam/blob/main/source/rubido_fruitjam/sound.cpp#L9) if you want higher volume
 - Adafruit snes gamepad input controls should work
 - Please use arduino-pico 5.5.0 or newer board setup, it seems to have fixed usbhost disconnects
